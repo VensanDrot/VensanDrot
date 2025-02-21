@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **all types of projects**
 
-- 👨‍💻 All of my projects are available at [vensandrot.com]([vensandrot.com](https://www.vensandrot.com/))
+- 👨‍💻 All of my projects are available at [vensandrot.com](https://www.vensandrot.com/)
 
 - 📫 How to reach me **vensandrot@gmail.com**
 
