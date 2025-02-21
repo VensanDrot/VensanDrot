@@ -3,7 +3,13 @@
 
 - 🔭 I’m currently working on [JOWi Academy](https://jowi-academy.app/)
 
+- 🌱 I’m currently getting **bachelor's in computer science**
+
 - 👯 I’m looking to collaborate on **all types of projects**
+
+- 👨‍💻 All of my projects are available at [vensandrot.com](vensandrot.com)
+
+- 📫 How to reach me **vensandrot@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
